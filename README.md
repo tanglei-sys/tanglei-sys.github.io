@@ -1,2 +1,2 @@
-# tanglei-sys.github.io
-be excellent
+# tyleransom.github.io
+Repository for Tyler Ransom's academic research website.
